@@ -19,4 +19,4 @@ Durante o desenvolvimento, busquei praticar conceitos fundamentais da linguagem 
 
 Este projeto faz parte da minha evolução prática em programação, com foco no desenvolvimento do raciocínio lógico, na implementação de estruturas condicionais e na simulação de processos presentes no setor bancário.
 
-Além de reforçar conceitos essenciais da linguagem Python, o projeto demonstra a aplicação da lógica de programação em um cenário real, aproximando o aprendizado das situações encontradas no mercado de tecnologia e análise de sistemas. 🚀
+Além de reforçar conceitos essenciais da linguagem Python, o projeto demonstra a aplicação da lógica de programação em um cenário real, aproximando o aprendizado das situações encontradas no mercado de tecnologia e análise de sistemas. 🚀 
